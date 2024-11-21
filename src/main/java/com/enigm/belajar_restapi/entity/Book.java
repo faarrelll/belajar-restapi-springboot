@@ -28,7 +28,5 @@ public class Book {
     
     @Column(nullable=false)
     private Integer quantity;
-
-
     
 }

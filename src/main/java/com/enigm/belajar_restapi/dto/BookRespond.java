@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Builder
 @Data
-public class Respond {
+public class BookRespond {
     
     private String bookName;
 

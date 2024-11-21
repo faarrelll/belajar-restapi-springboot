@@ -3,7 +3,7 @@ package com.enigm.belajar_restapi.dto;
 import lombok.Data;
 
 @Data
-public class Request {
+public class BookRequest {
 
     private String bookName;
 
